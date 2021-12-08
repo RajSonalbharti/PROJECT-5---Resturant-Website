@@ -2,7 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
+.jumbotron {
+  background-color: #ff3f34;
+  color: #fff;
+  padding: 40px 0;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
